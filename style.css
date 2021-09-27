@@ -1,0 +1,29 @@
+.container{
+  width: 100%;
+  padding:30px;
+  display: flex;
+  flex-direction:column;
+  justify-content: space-between; 
+}
+.card-body,button{
+  background-image: linear-gradient( to left, rgb(88, 85, 79),rgb(233, 225, 110));
+  }
+  
+  body{
+      background-color: rgb(49, 105, 82);
+      font-family: 'Yaldevi', sans-serif;
+  }
+  .btn-primary{
+  border-color: white;
+  }
+  .card-body{
+      text-align:center;
+      
+  }
+  .card-title{
+      margin-bottom: 0px;
+      background-color: black;
+  }
+  .pop-up{
+  background-image: linear-gradient( rgb(147, 194, 238),white,black);
+  }  
